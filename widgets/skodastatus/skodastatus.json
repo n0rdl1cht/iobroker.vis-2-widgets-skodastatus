@@ -1,0 +1,21 @@
+{
+  "widgets": {
+    "skodastatus": {
+      "name": "Skoda Status",
+      "component": "WidgetSkodaStatus",
+      "preview": "skodastatus.png",
+      "properties": {
+        "vehiclePrefix": {
+          "type": "text",
+          "label": "VW Connect Prefix",
+          "default": "vw-connect.0.TMBLJ7NU4S5049853"
+        },
+        "userdataPrefix": {
+          "type": "text",
+          "label": "Userdata Prefix",
+          "default": "0_userdata.0.Skoda"
+        }
+      }
+    }
+  }
+}

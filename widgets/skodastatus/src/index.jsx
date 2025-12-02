@@ -1,0 +1,1 @@
+import WidgetSkodaStatus from './WidgetSkodaStatus.jsx'; export default WidgetSkodaStatus;

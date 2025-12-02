@@ -1,0 +1,17 @@
+{
+  "name": "iobroker.vis-2-widgets-skodastatus",
+  "version": "0.0.1",
+  "description": "VIS 2 Widget – Skoda Status",
+  "author": "Timo",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "iobroker.vis-2-widgets-react-template build",
+    "watch": "iobroker.vis-2-widgets-react-template watch"
+  },
+  "dependencies": {
+    "@iobroker/vis-2-widgets-react-dev": "^0.0.18",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

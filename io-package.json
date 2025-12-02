@@ -1,0 +1,13 @@
+{
+  "common": {
+    "name": "vis-2-widgets-skodastatus",
+    "version": "0.0.1",
+    "title": "Skoda Status",
+    "type": "vis",
+    "authors": ["Timo"],
+    "license": "MIT",
+    "platform": "javascript"
+  },
+  "native": {},
+  "objects": []
+}
